@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ethernet Introduction
 
 OSI定义了7层网络模型，在网络实现中，我们听到最多的是TCP/IP协议和Ethernet。Ethernet处在那一层呢？ 
